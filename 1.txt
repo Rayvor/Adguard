@@ -1,2 +1,1 @@
-#@%#console.log("test")
-#@%#var button = document.querySelector('button.ytp-ad-skip-button.ytp-button'); if (button !== null) { button.click() 
+youtube.com#@%#document.querySelector('button.ytp-ad-skip-button.ytp-button').click()
