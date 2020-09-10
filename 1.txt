@@ -1,1 +1,1 @@
-example.org#%#window.__gaq = undefined;
+www.youtube.com##.video-ads
