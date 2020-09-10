@@ -1,1 +1,2 @@
-www.youtube.com##.video-ads
+www.youtube.com#%#var button = document.querySelector('button.ytp-ad-skip-button.ytp-button'); button.click()
+www.youtube.com##.ytp-ad-action-interstitial
